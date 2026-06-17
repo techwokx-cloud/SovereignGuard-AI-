@@ -1,4 +1,5 @@
-# packages.txt - System dependencies for Streamlit Cloud
 zlib1g-dev
 libjpeg-dev
 libpng-dev
+gcc
+g++
