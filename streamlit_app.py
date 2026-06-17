@@ -1,4 +1,3 @@
-cat > streamlit_app.py << 'EOF'
 import streamlit as st
 import os
 from dotenv import load_dotenv
