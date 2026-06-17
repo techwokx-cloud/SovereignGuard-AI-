@@ -1,0 +1,25 @@
+# Create the file
+cat > requirements.txt << 'EOF'
+# Core Dependencies
+google-generativeai==0.3.2
+openai==1.6.1
+streamlit==1.28.1
+python-dotenv==1.0.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+pydantic==2.5.0
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
+pyyaml==6.0.1
+
+# ML/AI
+transformers==4.35.2
+
+# UI/UX
+plotly==5.18.0
+altair==5.1.2
+EOF
