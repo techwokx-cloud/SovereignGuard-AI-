@@ -6,4 +6,3 @@ openai==1.6.1
 requests==2.31.0
 plotly==5.18.0
 altair==5.1.2
-pydantic==2.5.0
